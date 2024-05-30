@@ -1,4 +1,7 @@
 html {background: pink}
-h1 {color: purple}
+h1 {
+  color: purple
+font-family:arial, "lucida console", sans-serif;
+}
 h2 {color: blue}
 h3 {color: white}
