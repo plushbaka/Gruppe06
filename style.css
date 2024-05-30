@@ -4,4 +4,6 @@ h1 {
 }
 h2 {color: blue}
 h3 {color: white}
-table border {color: purple}
+table, th, td {
+  border: 5px solid purple;
+}
